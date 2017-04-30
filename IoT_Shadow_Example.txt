@@ -1,0 +1,15 @@
+{
+  "desired": {
+    "welcome": "aws-iot",
+    "brewStatus": 1,
+    "hardwareStatus": 0
+  },
+  "reported": {
+    "welcome": "aws-iot",
+    "brewStatus": 0,
+    "hardwareStatus": 0
+  },
+  "delta": {
+    "brewStatus": 1
+  }
+}

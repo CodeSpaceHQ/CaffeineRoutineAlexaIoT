@@ -1,0 +1,14 @@
+BrewIntent Alexa make coffee
+BrewIntent coffee
+BrewIntent make coffee
+BrewIntent make coffee now
+BrewIntent coffee now
+BrewIntent make me coffee
+BrewIntent make me coffee now
+CancelBrewIntent Alexa stop making coffee
+CancelBrewIntent stop making coffee
+CancelBrewIntent stop coffee
+CancelBrewIntent I dont wanna
+CancelBrewIntent bad coffee maker
+CancelBrewIntent stop making coffee now
+CancelBrewIntent stop coffee now
